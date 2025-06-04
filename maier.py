@@ -1,4 +1,4 @@
-def dsa():
+def dsa(malware):
     print("da")
 
 dsa()
